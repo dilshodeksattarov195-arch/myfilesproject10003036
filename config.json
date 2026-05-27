@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyvrocess",
+        "uuid": 6500076,
+        "checksum": "8hd40d"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
